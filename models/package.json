@@ -1,0 +1,23 @@
+{
+  "name": "@msyspack/models",
+  "version": "5.0.30",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@msyspack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msyspack/models.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msyspack/models/issues"
+  },
+  "homepage": "https://github.com/msyspack/models#readme"
+}
